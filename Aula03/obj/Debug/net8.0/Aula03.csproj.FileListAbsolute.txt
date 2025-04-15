@@ -1,0 +1,14 @@
+C:\Users\Computador\source\aulas-c#\Aula03\bin\Debug\net8.0\Aula03.exe
+C:\Users\Computador\source\aulas-c#\Aula03\bin\Debug\net8.0\Aula03.deps.json
+C:\Users\Computador\source\aulas-c#\Aula03\bin\Debug\net8.0\Aula03.runtimeconfig.json
+C:\Users\Computador\source\aulas-c#\Aula03\bin\Debug\net8.0\Aula03.dll
+C:\Users\Computador\source\aulas-c#\Aula03\bin\Debug\net8.0\Aula03.pdb
+C:\Users\Computador\source\aulas-c#\Aula03\obj\Debug\net8.0\Aula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador\source\aulas-c#\Aula03\obj\Debug\net8.0\Aula03.AssemblyInfoInputs.cache
+C:\Users\Computador\source\aulas-c#\Aula03\obj\Debug\net8.0\Aula03.AssemblyInfo.cs
+C:\Users\Computador\source\aulas-c#\Aula03\obj\Debug\net8.0\Aula03.csproj.CoreCompileInputs.cache
+C:\Users\Computador\source\aulas-c#\Aula03\obj\Debug\net8.0\Aula03.dll
+C:\Users\Computador\source\aulas-c#\Aula03\obj\Debug\net8.0\refint\Aula03.dll
+C:\Users\Computador\source\aulas-c#\Aula03\obj\Debug\net8.0\Aula03.pdb
+C:\Users\Computador\source\aulas-c#\Aula03\obj\Debug\net8.0\Aula03.genruntimeconfig.cache
+C:\Users\Computador\source\aulas-c#\Aula03\obj\Debug\net8.0\ref\Aula03.dll

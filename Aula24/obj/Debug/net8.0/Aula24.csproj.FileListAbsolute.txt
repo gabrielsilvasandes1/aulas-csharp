@@ -1,0 +1,14 @@
+C:\Users\Computador\source\aulas-c#\Aula24\bin\Debug\net8.0\Aula24.exe
+C:\Users\Computador\source\aulas-c#\Aula24\bin\Debug\net8.0\Aula24.deps.json
+C:\Users\Computador\source\aulas-c#\Aula24\bin\Debug\net8.0\Aula24.runtimeconfig.json
+C:\Users\Computador\source\aulas-c#\Aula24\bin\Debug\net8.0\Aula24.dll
+C:\Users\Computador\source\aulas-c#\Aula24\bin\Debug\net8.0\Aula24.pdb
+C:\Users\Computador\source\aulas-c#\Aula24\obj\Debug\net8.0\Aula24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador\source\aulas-c#\Aula24\obj\Debug\net8.0\Aula24.AssemblyInfoInputs.cache
+C:\Users\Computador\source\aulas-c#\Aula24\obj\Debug\net8.0\Aula24.AssemblyInfo.cs
+C:\Users\Computador\source\aulas-c#\Aula24\obj\Debug\net8.0\Aula24.csproj.CoreCompileInputs.cache
+C:\Users\Computador\source\aulas-c#\Aula24\obj\Debug\net8.0\Aula24.dll
+C:\Users\Computador\source\aulas-c#\Aula24\obj\Debug\net8.0\refint\Aula24.dll
+C:\Users\Computador\source\aulas-c#\Aula24\obj\Debug\net8.0\Aula24.pdb
+C:\Users\Computador\source\aulas-c#\Aula24\obj\Debug\net8.0\Aula24.genruntimeconfig.cache
+C:\Users\Computador\source\aulas-c#\Aula24\obj\Debug\net8.0\ref\Aula24.dll

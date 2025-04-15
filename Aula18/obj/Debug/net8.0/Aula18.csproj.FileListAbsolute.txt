@@ -1,0 +1,14 @@
+C:\Users\Computador\source\aulas-c#\Aula18\bin\Debug\net8.0\Aula18.exe
+C:\Users\Computador\source\aulas-c#\Aula18\bin\Debug\net8.0\Aula18.deps.json
+C:\Users\Computador\source\aulas-c#\Aula18\bin\Debug\net8.0\Aula18.runtimeconfig.json
+C:\Users\Computador\source\aulas-c#\Aula18\bin\Debug\net8.0\Aula18.dll
+C:\Users\Computador\source\aulas-c#\Aula18\bin\Debug\net8.0\Aula18.pdb
+C:\Users\Computador\source\aulas-c#\Aula18\obj\Debug\net8.0\Aula18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computador\source\aulas-c#\Aula18\obj\Debug\net8.0\Aula18.AssemblyInfoInputs.cache
+C:\Users\Computador\source\aulas-c#\Aula18\obj\Debug\net8.0\Aula18.AssemblyInfo.cs
+C:\Users\Computador\source\aulas-c#\Aula18\obj\Debug\net8.0\Aula18.csproj.CoreCompileInputs.cache
+C:\Users\Computador\source\aulas-c#\Aula18\obj\Debug\net8.0\Aula18.dll
+C:\Users\Computador\source\aulas-c#\Aula18\obj\Debug\net8.0\refint\Aula18.dll
+C:\Users\Computador\source\aulas-c#\Aula18\obj\Debug\net8.0\Aula18.pdb
+C:\Users\Computador\source\aulas-c#\Aula18\obj\Debug\net8.0\Aula18.genruntimeconfig.cache
+C:\Users\Computador\source\aulas-c#\Aula18\obj\Debug\net8.0\ref\Aula18.dll
